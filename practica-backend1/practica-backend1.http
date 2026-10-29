@@ -1,0 +1,6 @@
+@practica_backend1_HostAddress = http://localhost:5291
+
+GET {{practica_backend1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
